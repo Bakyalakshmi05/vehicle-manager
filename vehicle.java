@@ -6,5 +6,8 @@ public class Vehicle{
 	{
 PetrolEngine pE=new petrolEngine();
 		pE.start();
+		
+		DiselEngine pE=new DiselEngine();
+		dE.start();
 	}
 }
